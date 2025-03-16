@@ -1,0 +1,23 @@
+.inline {
+    display: inline;
+}
+
+html {
+    text-align: center;
+    font-family: sans-serif;
+    background-color:paleturquoise;
+}
+
+img {
+    width: 300px;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Courier New, monospace;
+    letter-spacing: 10px;
+}
+
+h2 {
+    font-size: 30px;
+}
